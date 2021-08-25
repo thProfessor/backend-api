@@ -1,10 +1,10 @@
-## Source code for the Udemy Course
+## Source code for frontend of habito api
 
-### [React Node Social Network from Scratch to Deployment ](https://www.udemy.com/node-react/?couponCode=GITHUB)
+### CRUD
 
-### To run this project, do the following:
+### State Management
 
-##### create .env with the following code (update credentials). Make sure to create .env in the root of the project, not inside /src. react-front/.env
+##### React react redux using class components
 
 ```
 REACT_APP_API_URL=http://localhost:8080/api
